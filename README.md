@@ -1,3 +1,7 @@
+# ** ssSource code has been moved to https://github.com/NodeOS/NodeOS**
+
+Thisrepowillremainforreferencepurposses
+
 # NodeOS on Docker
 
 - Please first [Install Docker](http://docs.docker.io/en/latest/installation/)
