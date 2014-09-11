@@ -1,6 +1,8 @@
-# ** ssSource code has been moved to https://github.com/NodeOS/NodeOS**
+# Source code has been moved to [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS)
 
-Thisrepowillremainforreferencepurposses
+This repo will remain for reference purposses
+
+----
 
 # NodeOS on Docker
 
